@@ -6,4 +6,5 @@ Included is one filed called "banker.c"
 To run it, use
 
 $ gcc banker.c -o banker
+
 $ ./banker
